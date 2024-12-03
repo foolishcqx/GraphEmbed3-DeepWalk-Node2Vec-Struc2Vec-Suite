@@ -68,7 +68,7 @@
 
 ## 代码说明
 
-```json
+```plaintext
 models文件夹下包含了DeepWalk、Node2Vec和Struc2Vec三种图嵌入算法的实现
 
 train.py包含了训练脚本
